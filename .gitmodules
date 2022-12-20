@@ -1,0 +1,15 @@
+[submodule "binotify-config"]
+	path = binotify-config
+	url = git@github.com:dParikesit/binotify-config.git
+[submodule "binotify-app"]
+	path = binotify-app
+	url = git@github.com:dParikesit/binotify-app.git
+[submodule "binotify-premium-app"]
+	path = binotify-premium-app
+	url = git@github.com:dParikesit/binotify-premium-app.git
+[submodule "binotify-rest-service"]
+	path = binotify-rest-service
+	url = git@github.com:dParikesit/binotify-rest-service.git
+[submodule "binotify-soap-service"]
+	path = binotify-soap-service
+	url = git@github.com:dParikesit/binotify-soap-service.git
